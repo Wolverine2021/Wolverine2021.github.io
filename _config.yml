@@ -13,7 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wolverine 2021
+title: WOLVERINE 2021
+
+navbar-links:
+  About: "about"
+  Call for Participation: "call"
+  Interactive Program: "program"
+  Organizing Team: "team"
+
+avatar: "/resources/logo2.png"
+round-avatar: false
+
 # email: your-email@example.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -26,7 +36,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+kramdown:
+  input: GFM  #Github Flavored Markdown
+remote_theme:  daattali/beautiful-jekyll 
+paginate: 5
+
+navbar-col: "#b11170"
+navbar-text-col: "#f3e343"
+link-col: "#b11170"
+hover-col: "#da9851"
+footer-text-col: "#f3e343"
+footer-link-col: "#404040"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 # plugins:
 #   - jekyll-feed
 
