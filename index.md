@@ -13,12 +13,6 @@ layout: home_original
 	<p><center>Virtually on October 18, 2021!</center></p>
 </div>
 
-
-<style>
-body {
-text-align: justify}
-</style>
-
 <div class="row">
 <div class="col-md-8" markdown="1">
 
