@@ -92,10 +92,8 @@ img::-moz-selection {
 }
 
 img {
-  width: auto ;
-  max-width: 100% ;
-  height: auto ;
-} 
+  max-width: 100%;
+}
 
 .linked-section {
   padding-top: 3.75rem;
@@ -1028,14 +1026,6 @@ pre {
   #nav-search-exit {
     right: 0;
   }
-}
-#content {
-  float: right ;
-  width: 80% ;
-}
-#navbar {
-  float: right ;
-  width: 20% ;
 }
 #nav-search-input:focus {
   background: #f3f8fe;

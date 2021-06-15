@@ -44,11 +44,11 @@ layout: home_original
 
 
     
-| Topics | Speaker | Invited | Confirmed | Role |
+| Topics | Speaker | Role |
 |:------------------------------------------------------------------------------------ |:----------------:|:---------------:|:----------:|:-----------:|
-| Artificial Intelligence | [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/) | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | Keynote |
-| Explainable Artificial Intelligence | [Ofra Amir](https://scholar.harvard.edu/oamir/home) | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | Facilitator |
-| Robustness of Neural Networks| [Guy Katz](https://www.katz-lab.com/) | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span>| Facilitator |
-| Neurosymbolic Methods| [Markus Rabe](https://dblp.org/pid/88/1112-2.html) | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | Facilitator |
-| Safe Reinforcement Learning | [Matthijs Spaan](https://www.st.ewi.tudelft.nl/mtjspaan/) | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | Facilitator |
-| Fair Machine Learning | [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/)  | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-check fa-fw"></i> </span> | Facilitator |
+| Artificial Intelligence | [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/) | Keynote |
+| Explainable Artificial Intelligence | [Ofra Amir](https://scholar.harvard.edu/oamir/home) | Facilitator |
+| Robustness of Neural Networks| [Guy Katz](https://www.katz-lab.com/) | Facilitator |
+| Neurosymbolic Methods| [Markus Rabe](https://dblp.org/pid/88/1112-2.html) | Facilitator |
+| Safe Reinforcement Learning | [Matthijs Spaan](https://www.st.ewi.tudelft.nl/mtjspaan/) | Facilitator |
+| Fair Machine Learning | [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/)  | Facilitator |
