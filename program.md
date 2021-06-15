@@ -32,14 +32,6 @@ layout: home_original
 </div>
 <div class="col-md-6" markdown="1">
 
-### <center><span style="color:#b11170">Facilitated discussion tables  <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span></span></center>
-
-
-<img height="400px" class="center-block" src="resources/tables.png">
-</div>
-</div>
-
-
 ### <span style="color:#b11170">Topics & Facilitators</span>
 
 
@@ -52,3 +44,13 @@ layout: home_original
 | Neurosymbolic Methods| [Markus Rabe](https://dblp.org/pid/88/1112-2.html) | Facilitator |
 | Safe Reinforcement Learning | [Matthijs Spaan](https://www.st.ewi.tudelft.nl/mtjspaan/) | Facilitator |
 | Fair Machine Learning | [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/)  | Facilitator |
+
+</div>
+</div>
+
+
+
+### <center><span style="color:#b11170">Facilitated discussion tables  <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span></span></center>
+
+
+<center><img height="400px" class="center-block" src="resources/tables.png"></center>
