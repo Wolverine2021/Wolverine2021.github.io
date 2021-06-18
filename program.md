@@ -38,12 +38,12 @@ layout: home_original
     
 | Topics | Speaker | Role |
 |:------------------------------------------------------------------------------------ |:----------------:|:---------------:|:----------:|:-----------:|
-| Artificial Intelligence | [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/) | Keynote |
-| Explainable Artificial Intelligence | [Ofra Amir](https://scholar.harvard.edu/oamir/home) | Facilitator |
-| Robustness of Neural Networks| [Guy Katz](https://www.katz-lab.com/) | Facilitator |
-| Neurosymbolic Methods| [Markus Rabe](https://dblp.org/pid/88/1112-2.html) | Facilitator |
-| Safe Reinforcement Learning | [Matthijs Spaan](https://www.st.ewi.tudelft.nl/mtjspaan/) | Facilitator |
-| Fair Machine Learning | [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/)  | Facilitator |
+| Artificial Intelligence | [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/){:target="_blank"} | Keynote |
+| Explainable Artificial Intelligence | [Ofra Amir](https://scholar.harvard.edu/oamir/home){:target="_blank"} | Facilitator |
+| Robustness of Neural Networks| [Guy Katz](https://www.katz-lab.com/){:target="_blank"} | Facilitator |
+| Neurosymbolic Methods| [Markus Rabe](https://dblp.org/pid/88/1112-2.html){:target="_blank"} | Facilitator |
+| Safe Reinforcement Learning | [Matthijs Spaan](https://www.st.ewi.tudelft.nl/mtjspaan/){:target="_blank"} | Facilitator |
+| Fair Machine Learning | [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/){:target="_blank"}  | Facilitator |
 
 </div>
 </div>

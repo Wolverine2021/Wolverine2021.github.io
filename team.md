@@ -13,13 +13,13 @@ body {
 text-align: center}
 </style>
 
-[Anna Lukina]()
+[Anna Lukina](https://annalukina.com/){:target="_blank"}
 
-[Guy Avni]()
+[Guy Avni](https://sites.google.com/view/gavni){:target="_blank"}
 
-[Mirco Giacobbe]()
+[Mirco Giacobbe](https://mircogiacobbe.github.io/){:target="_blank"}
 
-[Christian Schilling]()
+[Christian Schilling](https://www.christianschilling.net/){:target="_blank"}
 
 <img height="400px" class="center-block" src="resources/logo.png">
 
