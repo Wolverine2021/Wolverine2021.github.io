@@ -21,11 +21,11 @@ layout: home_original
 </div>
 <div class="col-md-4" markdown="1">
 
-### <span style="color:#b11170">Keyone:</span>
+### <span style="color:#b11170">Keynote</span>
 
 [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/){:target="_blank"}
 
-### <span style="color:#b11170">Round-Table Hosts:</span>
+### <span style="color:#b11170">Round-Table Hosts</span>
 
 [Ofra Amir](https://scholar.harvard.edu/oamir/home){:target="_blank"}
 
