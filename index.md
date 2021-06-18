@@ -23,7 +23,11 @@ layout: home_original
 
 ### <span style="color:#b11170">Invited Facilitators</span>
 
-[Sheila McIlraith (keynote)](https://www.cs.toronto.edu/~sheila/){:target="_blank"}
+#### <span style="color:#b11170">Keyone:</span>
+
+[Sheila McIlraith](https://www.cs.toronto.edu/~sheila/){:target="_blank"}
+
+#### <span style="color:#b11170">Round-Table Hosts:</span>
 
 [Ofra Amir](https://scholar.harvard.edu/oamir/home){:target="_blank"}
 
