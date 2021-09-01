@@ -38,12 +38,11 @@ layout: home_original
 [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/){:target="_blank"}
 
 
-### <span style="color:#b11170">Important Dates</span>
+### <span style="color:#b11170">Important Details</span>
 
-**Call for participation:** Coming soon!
-
-**Registration deadline:** Coming soon!
+**Registration:** [conference webpage](https://formal-analysis.com/atva/2021/workshop.html){:target="_blank"} 
 
 **Workshop date:** 18 October 2021
 
+</div>
 </div>
