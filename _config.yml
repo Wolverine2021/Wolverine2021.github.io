@@ -50,8 +50,8 @@ footer-link-col: "#404040"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  # - jemoji
-  - jekyll-spaceship
+  - jemoji
+#  - jekyll-spaceship
 #  - gemoji
 
 #Gemoji plugin settings
