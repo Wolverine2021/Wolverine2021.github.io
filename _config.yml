@@ -50,6 +50,13 @@ footer-link-col: "#404040"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
+#  - jekyll-spaceship
+#  - gemoji
+
+#Gemoji plugin settings
+#emoji_dir: "/sachingpta.gitlab.io/assets/images/emoji"
+  
 
 # plugins:
 #   - jekyll-feed
