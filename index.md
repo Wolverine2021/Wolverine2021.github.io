@@ -27,14 +27,10 @@ layout: home_original
 
 ### <span style="color:#b11170">Round-Table Hosts</span>
 
-[Ofra Amir](https://scholar.harvard.edu/oamir/home){:target="_blank"}
-
-[Guy Katz](https://www.katz-lab.com/){:target="_blank"} 
-
-[Markus Rabe](https://dblp.org/pid/88/1112-2.html){:target="_blank"} 
-
-[Matthijs Spaan](https://www.st.ewi.tudelft.nl/mtjspaan/){:target="_blank"} 
-
+[Ofra Amir](https://scholar.harvard.edu/oamir/home){:target="_blank"}\
+[Guy Katz](https://www.katz-lab.com/){:target="_blank"} \
+[Markus Rabe](https://dblp.org/pid/88/1112-2.html){:target="_blank"} \
+[Matthijs Spaan](https://www.st.ewi.tudelft.nl/mtjspaan/){:target="_blank"} \
 [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/){:target="_blank"}
 
 
