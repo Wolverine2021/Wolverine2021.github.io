@@ -16,7 +16,7 @@ The goal of WOLVERINE is to foster networking and active discussions with a hope
 
 We have a terrific line-up of invited speakers: 
 
-:star2: **Sheila McIlraith** (University of Toronto, Canada): **Keynote speaker.**\
+**:star2: Sheila McIlraith** (University of Toronto, Canada): **Keynote speaker.**\
 **:star: Ofra Amir** (Technion, Israel): **Explainable Artificial Intelligence.**\
 **:star: Guy Katz** (Hebrew University, Israel): **Robustness.**\
 **:star: Markus Rabe** (Google): **Neurosymbolic Methods.**\
