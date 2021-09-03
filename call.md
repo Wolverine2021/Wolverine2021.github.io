@@ -25,9 +25,7 @@ We have a terrific line-up of invited speakers:
 
 More details: [workshop webpage](https://wolverine2021.github.io){:target="_blank"} 
 
-Registration costs:
-- Online Regular   70 AUD (≈ 55 USD)
-- Online Student   25 AUD (≈ 20 USD)
+Registration costs: free of charge!
 
 Registration: [conference webpage](https://formal-analysis.com/atva/2021/workshop.html){:target="_blank"} 
 
