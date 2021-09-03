@@ -3,7 +3,7 @@ layout: home_original
 ---
 
 
-We are excited to invite you to the highly interactive virtual WOLVERINE 2021: “Workshop on Open Problems in Learning and Verification of Neural Networks”, which will be held on Monday, October 18, during [ATVA 2021](https://formal-analysis.com/atva/2021/).
+We are excited to invite you to the highly interactive virtual WOLVERINE 2021: “Workshop on Open Problems in Learning and Verification of Neural Networks”, which will be held on Monday, October 18, during [ATVA 2021](https://formal-analysis.com/atva/2021/){:target="_blank"}.
 
 The goal of WOLVERINE is to foster networking and active discussions with a hope to spark new interdisciplinary collaborations. WOLVERINE welcomes researchers in formal methods, machine learning, and their intersection. 
 
@@ -16,12 +16,12 @@ The goal of WOLVERINE is to foster networking and active discussions with a hope
 
 We have a terrific line-up of invited speakers: 
 
-**:star2: Sheila McIlraith** (University of Toronto, Canada): **Keynote speaker.**\
-**:star: Ofra Amir** (Technion, Israel): **Explainable Artificial Intelligence.**\
-**:star: Guy Katz** (Hebrew University, Israel): **Robustness.**\
-**:star: Markus Rabe** (Google): **Neurosymbolic Methods.**\
-**:star: Matthijs Spaan** (TU Delft, The Netherlands): **Safe Reinforcement Learning.**\
-**:star: Aws Albarghouthi** (University of Wisconsin–Madison, USA): **Fair Machine Learning.**
+**Sheila McIlraith** (University of Toronto, Canada): **Keynote speaker.**\
+**Ofra Amir** (Technion, Israel): **Explainable Artificial Intelligence.**\
+**Guy Katz** (Hebrew University, Israel): **Robustness.**\
+**Markus Rabe** (Google): **Neurosymbolic Methods.**\
+**Matthijs Spaan** (TU Delft, The Netherlands): **Safe Reinforcement Learning.**\
+**Aws Albarghouthi** (University of Wisconsin–Madison, USA): **Fair Machine Learning.**
 
 More details: [workshop webpage](https://wolverine2021.github.io){:target="_blank"} 
 
