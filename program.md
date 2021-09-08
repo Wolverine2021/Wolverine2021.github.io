@@ -17,7 +17,7 @@ layout: home_original
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-### <span style="color:#b11170">Schedule: 16:00-22:00 CET</span>
+### <span style="color:#b11170">Schedule: 16:00-20:00 CET ([convert](https://time.is/compare/1600_18_Oct_2021_in_CET/Melbourne/Los_Angeles/Beijing/New_York){:target="_blank"} to your time zone)</span>
 
 
 | Time | Type | Activity | Location |
