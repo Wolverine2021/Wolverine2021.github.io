@@ -26,7 +26,7 @@ layout: home_original
 | <span class="text-nowrap"><i class="fa fa-hourglass-start fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 15-min problem presentation | Zoom |
 | <span class="text-nowrap"><i class="fa fa-hourglass-half fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 20-min round-table discussions | Gather.Town |
 | <span class="text-nowrap"><i class="fa fa-hourglass-end fa-fw"></i> </span>| <span class="text-nowrap"><i class="fa fa-flash fa-fw"></i> </span> | 10-min Break/Networking/Posters | Gather.Town |
-| <span class="text-nowrap"><i class="fa fa-hourglass-half fa-fw"></i> </span>| <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 20-min round-table discussions | Zoom|
+| <span class="text-nowrap"><i class="fa fa-hourglass-half fa-fw"></i> </span>| <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 20-min round-table discussions | Gather.Town|
 | <span class="text-nowrap"><i class="fa fa-hourglass fa-fw"></i> </span>| <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | Posters/Networking | Gather.Town|
 
 </div>
