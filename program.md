@@ -23,7 +23,7 @@ layout: home_original
 | Time | Type | Activity | Location |
 | -------- | :--------: | -------- | -------- | 
 | <span class="text-nowrap"><i class="fa fa-hourglass fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 60-min keynote | Zoom |
-| <span class="text-nowrap"><i class="fa fa-hourglass-start fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 15-20-min problem presentation | Zoom |
+| <span class="text-nowrap"><i class="fa fa-hourglass-start fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-slideshare fa-fw"></i> </span> | 15-min problem presentation | Zoom |
 | <span class="text-nowrap"><i class="fa fa-hourglass-half fa-fw"></i> </span> | <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 20-min round-table discussions | Gather.Town |
 | <span class="text-nowrap"><i class="fa fa-hourglass-end fa-fw"></i> </span>| <span class="text-nowrap"><i class="fa fa-flash fa-fw"></i> </span> | 10-min break/3-min networking | Breakout Room |
 | <span class="text-nowrap"><i class="fa fa-hourglass-half fa-fw"></i> </span>| <span class="text-nowrap"><i class="fa fa-group fa-fw"></i> </span> | 20-min round-table discussions | Zoom|
@@ -39,10 +39,10 @@ layout: home_original
 | Topics | Speaker | Role |
 |:------------------------------------------------------------------------------------ |:----------------:|:---------------:|:----------:|:-----------:|
 | Artificial Intelligence | [Sheila McIlraith](https://www.cs.toronto.edu/~sheila/){:target="_blank"} | Keynote |
+| Safe Reinforcement Learning | [Matthijs Spaan](https://www.st.ewi.tudelft.nl/mtjspaan/){:target="_blank"} | Host |
 | Explainable Artificial Intelligence | [Ofra Amir](https://scholar.harvard.edu/oamir/home){:target="_blank"} | Host |
 | Robustness of Neural Networks| [Guy Katz](https://www.katz-lab.com/){:target="_blank"} | Host |
 | Neurosymbolic Methods| [Markus Rabe](https://dblp.org/pid/88/1112-2.html){:target="_blank"} | Host |
-| Safe Reinforcement Learning | [Matthijs Spaan](https://www.st.ewi.tudelft.nl/mtjspaan/){:target="_blank"} | Host |
 | Fair Machine Learning | [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/){:target="_blank"}  | Host |
 
 </div>
