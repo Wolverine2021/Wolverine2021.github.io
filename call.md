@@ -17,10 +17,10 @@ The goal of WOLVERINE is to foster networking and active discussions with a hope
 We have a terrific line-up of invited speakers: 
 
 **Sheila McIlraith** (University of Toronto, Canada): **Keynote speaker.**\
+**Matthijs Spaan** (TU Delft, The Netherlands): **Safe Reinforcement Learning.**\
 **Ofra Amir** (Technion, Israel): **Explainable Artificial Intelligence.**\
 **Guy Katz** (Hebrew University, Israel): **Robustness.**\
 **Markus Rabe** (Google): **Neurosymbolic Methods.**\
-**Matthijs Spaan** (TU Delft, The Netherlands): **Safe Reinforcement Learning.**\
 **Aws Albarghouthi** (University of Wisconsin–Madison, USA): **Fair Machine Learning.**
 
 More details: [workshop webpage](https://wolverine2021.github.io){:target="_blank"} 
