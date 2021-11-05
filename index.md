@@ -10,7 +10,7 @@ layout: home_original
 	<center><span style="background:#b11170;color:#f3e343;border-radius: 0.25rem;padding: 0.125rem 0.25rem">W</span><span style="color:#b11170">orkshop on</span> <span style="background:#b11170;color:#f3e343;border-radius: 0.25rem;padding: 0.125rem 0.25rem">O</span><span style="color:#b11170">pen Problems in</span> <span style="background:#b11170;color:#f3e343;border-radius: 0.25rem;padding: 0.125rem 0.25rem">L</span><span style="color:#b11170">earning and</span> <span style="background:#b11170;color:#f3e343;border-radius: 0.25rem;padding: 0.125rem 0.25rem">Veri</span><span style="color:#b11170">fication of</span> <span style="background:#b11170;color:#f3e343;border-radius: 0.25rem;padding: 0.125rem 0.25rem">Ne</span><span style="color:#b11170">ural Networks</span></center>
 	</h2>
 	<hr class="small">
-	<p><center>Virtually on October 18, 2021!</center></p>
+	<p><center>Held virtually on October 18, 2021! [Learn how it was.](https://wolverine2021.github.io/about){:target="_blank"}</center></p>
 </div>
 
 <div class="row">
