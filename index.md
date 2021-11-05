@@ -13,7 +13,7 @@ layout: home_original
 	<p><center>Held virtually on October 18, 2021!</center></p>
 </div>
 
-### [Learn how it was!](https://wolverine2021.github.io/about/)
+### [Learn how it was!](https://wolverine2021.github.io/about)
 
 <div class="row">
 <div class="col-md-8" markdown="1">
